@@ -10,7 +10,7 @@ import java.util.Arrays;
 /**
  * Créer le     : vendredi 13 juin 2025
  * Auteur       : Yoann Meclot (DevMyBits)
- * E-mail       : yoannmeclot@hotmail.com
+ * E-mail       : devmybits@gmail.com
  */
 public final class FileInflater implements Closeable, AutoCloseable
 {
