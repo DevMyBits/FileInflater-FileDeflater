@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  * Créer le     : vendredi 13 juin 2025
- * Auteur       : Yoann Meclot (MSay2)
+ * Auteur       : Yoann Meclot (DevMyBits)
  * E-mail       : yoannmeclot@hotmail.com
  */
 public final class FileDeflater implements Closeable, AutoCloseable
